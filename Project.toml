@@ -1,0 +1,13 @@
+name = "HEtools"
+uuid = "ac54a25c-9fbc-4d8a-9af3-833e06b1b3a5"
+authors = ["Bastiaan Quast"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
