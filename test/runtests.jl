@@ -1,5 +1,5 @@
 using Test
-using MyPackage  # Replace with the actual name of your package
+using HEtools  # Replace with the actual name of your package
 using Polynomials
 
 # Test cases for the coefmod function
