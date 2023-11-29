@@ -1,17 +1,7 @@
 name = "HEtools"
-uuid = "ac54a25c-9fbc-4d8a-9af3-833e06b1b3a5"
-authors = ["Bastiaan Quast"]
-version = "1.0.0-DEV"
-
-[compat]
-julia = "1.5"
-Polynomials = "4.0.6"
-
-[extras]
-Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
-
-[targets]
-test = ["Test"]
+uuid = "568a5001-10de-4ab4-a262-4150c2704f4f"
+authors = ["Bastiaan Quast <bquast@gmail.com>"]
+version = "0.1.0"
 
 [deps]
 Polynomials = "f27b6e38-b328-58d1-80ce-0feddd5e7a45"

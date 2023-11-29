@@ -7,4 +7,4 @@ function coefmod(p, m)
     Polynomials.Polynomial(mod.(p[:], m))
 end
 
-end
+end # module HEtools
