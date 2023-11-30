@@ -1,7 +1,7 @@
 name = "HEtools"
 uuid = "568a5001-10de-4ab4-a262-4150c2704f4f"
 authors = ["Bastiaan Quast <bquast@gmail.com>"]
-version = "0.1.0"
+version = "1.0.0"
 
 [deps]
 Polynomials = "f27b6e38-b328-58d1-80ce-0feddd5e7a45"
