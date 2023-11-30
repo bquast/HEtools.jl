@@ -1,10 +1,11 @@
 module HEtools
 
-export coefmod
-import Polynomials
+export genunif
+using Random
 
-function coefmod(p, m)
-    Polynomials.Polynomial(mod.(p[:], m))
+function genunif(n, q)
+    coeffs = rand(1:q, n)  # Generate n random integers from 1 to q
+    Polynomials.Polynomial(coeffs)
 end
 
 end # module HEtools

@@ -1,7 +1,7 @@
 name = "HEtools"
-uuid = "568a5001-10de-4ab4-a262-4150c2704f4f"
+uuid = "a9f277b8-e916-463f-aaa0-233172fb3daa"
 authors = ["Bastiaan Quast <bquast@gmail.com>"]
-version = "1.0.0"
+version = "0.1.0"
 
 [deps]
-Polynomials = "f27b6e38-b328-58d1-80ce-0feddd5e7a45"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
